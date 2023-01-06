@@ -1,4 +1,4 @@
-# StørmAcademy
+# StørmAcademy | Knowledge is power!
 ## Information
 StørmAcademy is an upcoming coding platform.
 This project will provide multiple ways to code will consist in an online code editor where the client/user can edit the syntax given in an exercise, or in a course.
