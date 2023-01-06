@@ -69,4 +69,4 @@ This team, includes the following people:
 In case you have any question, message **@xcampi**
 
 ---
-**Last updated on 5th January 2023, 9:32 AM (GMT)**
+**Last updated on 6th January 2023, 3:52 PM (GMT)**
