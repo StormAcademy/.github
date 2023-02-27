@@ -77,5 +77,3 @@ Please keep in mind that the project is still in development and for now, we wil
 In case you have any questions, please contact us by one of our social media. 
 
 ##### Last update: 1:53 PM (UTC/GMT), 27th February, 2023
-
-
