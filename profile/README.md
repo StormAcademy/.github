@@ -45,21 +45,21 @@ The team behind the project goes by the name Zarza, but, for some, it goes by th
 Our team is quite big for a start-up project, we currently have 26 people actively working on the project as this is being writen.
 This team includes a few developers and many outside collaborators as well, here are a few names that are helping a lot in our project.
 
-| Developers  | Managers    | Collaborators | Partnerships              | Upcoming Partnerships    |
-| ----------- | ----------- | -----------   | ------------------------  | ------------------------ |
-| xCampi      | xCampi      | Hozuni        | Neoteric Softwares        | Google Workspaces        |
-| Hozuni      | Duarte C.   | Kyle          | Neoteric Technologies     | Matrix Development       |    
-| Kyle        | Hozuni      | Nick2020      | FNAC PT                   | Vercel                   |                      
-| Alpacazerox | Alexandra C.| CodyDev       |  
-| Yashdani    | Leonor R.   | AlphaBlox     |
-| Alexandra C.| Mariana M.  | DobDev        
-| Miguel C.   |
-| Brian G.    |
-| Leonardo E. |
-| Miguel R.   |
-| Vector P.   |
+| Developers  | Managers    | Collaborators | Partnerships              | Possible Future Partnerships    |
+| ----------- | ----------- | -----------   | ------------------------  | ------------------------        |
+| xCampi      | xCampi      | Hozuni        | Neoteric Softwares        | Google Workspaces               |
+| Hozuni      | Duarte C.   | Kyle          | Neoteric Technologies     | Matrix Development              |      
+| Kyle        | Hozuni      | Nick2020      | W3Schools                 | Vercel                          |                      
+| Alpacazerox | Alexandra C.| CodyDev       | Code Academy              | PaperPoint                      |  
+| Yashdani    | Leonor R.   | AlphaBlox     | Codepen                   | Fnac PT                         |
+| Alexandra C.| Mariana M.  | DobDev        |                           | Taychon Games                   |
+| Miguel C.   | Miguel P.   |               |                           |                                 
+| Brian G.    |             |               |                           |                                 
+| Leonardo E. |             |               |                           |                                   
+| Miguel R.   |             |
+| Vector P.   |             |
 
-
+# UPDATING MORE SOON
 
 
 
