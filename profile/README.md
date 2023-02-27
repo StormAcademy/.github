@@ -36,6 +36,18 @@ Completing an exercise or sheet in the shortest time will let you enjoy more wel
 Points given to the user after sucefully completing an exercicse, or sheet will let them buy a Course using points, instead of real money.
 Obviously, you will need to complete multiple sheets in order to be able to purchase a course for free, using only points, but you will be able to enjoy a discount as well, such as 20% or 50% if you do not have enough points to buy it with a 100% discount.
 
+## 📧 Support & Contact
+We are planning on creating more support communities in the future, but, for now, our support team is avaible on Twitter, Instagram and Discord.
+
+### Twitter
+https://twitter.com/sstormacademy
+
+### Instagram 
+https://www.instagram.com/sstormacademy
+
+### Discord Server
+https://discord.gg/mB8mQc3pC2
+
 ## ℹ️ Other information
 ### ❔ Does the team behind the project have a name?
 Yes, it does.
@@ -52,61 +64,18 @@ This team includes a few developers and many outside collaborators as well, here
 | Kyle        | Hozuni      | Nick2020      | W3Schools                 | Vercel                          |                      
 | Alpacazerox | Alexandra C.| CodyDev       | Code Academy              | PaperPoint                      |  
 | Yashdani    | Leonor R.   | AlphaBlox     | Codepen                   | Fnac PT                         |
-| Alexandra C.| Mariana M.  | DobDev        |                           | Taychon Games                   |
-| Miguel C.   | Miguel P.   |               |                           |                                 
-| Brian G.    |             |               |                           |                                 
-| Leonardo E. |             |               |                           |                                   
-| Miguel R.   |             |
-| Vector P.   |             |
-
-# UPDATING MORE SOON
+| Alexandra C.| Mariana M.  | DobDev        | Guilded                   | Taychon Games                   |
+| Miguel C.   | Miguel P.   |               | Stackify                  | Looka                           |                       
+| Brian G.    |             |               |                           | Devicon                         |                         
+| Leonardo E. |             |               |                           | Disboard                        |                          
+| Miguel R.   |             |               |                           | Discord Developers              |
+| Vector P.   |             |               |                           |                                 |
 
 
+### ⚠️Note
+Please keep in mind that the project is still in development and for now, we will not provide any more information or any idea of how the project is so far.
+In case you have any questions, please contact us by one of our social media. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+##### Last update: 1:53 PM (UTC/GMT), 27th February, 2023
 
 
