@@ -1,72 +1,112 @@
-# StørmAcademy | Knowledge is power!
-## Information
-StørmAcademy is an upcoming coding platform.
-This project will provide multiple ways to code will consist in an online code editor where the client/user can edit the syntax given in an exercise, or in a course.
+# StørmAcademy 
+## ℹ️ About
+StørmAcademy is an upcoming Coding Platform which will provide multiple Courses, Exercices and fun ways to learn code.
+The idea for this project was originally thought on the 10th April, 2022 by xCampi.
+Started being worked full-time in August 2022.
 
-## Points
-There will be a point system which will work the following way:
-- The user will receive a certain ammount of points based on the task they complete, for example:
-  - If the user completes a simple Ruby exercise _(which takes about 5 minutes to complete)_, they will be given 2 points.
-  - If the user completes a whole Ruby exercise sheet _(should take about an hour and a half to complete)_, they will be given 100 points.
+### ❔ How is StørmAcademy being made?
+We are developing the project inside of multiple Hubs, such as Vercel, Netlify, Visual Code, Epizy and GitHub Enterprise.
+Main programming languages/frameworks/databases being used:
 
-In case the user completes a whole section of exercises, the ammount of points will be different, since it will based on how long it took.
+| Programming languages     | Frameworks  | Databases   |
+| ------------------------  | ----------- | ----------- |
+| HTML5                     | Vue.js      | Firebase    |
+| CSS3                      | jQuery      | NGINX       |
+| JavaScript                | Svelte      | MySql       |
+| React                     | Marvel      | NoSql       |
+| Php                       | GreenSock   | Apache      |
+| Sql                       | Node.js     | Epizy       |
+| Scala                     | Next.js     | Xampp       | 
+| Less                      | Bootstrap   |             |
+| C++/Cpp                   | Vercel      |             |    
+| SASS                      | Netlify     |             |
 
-### What do points do?
-Points only work as a _"storm currency"_, which we would like to call the **Stormies**.
-For those who can't afford a course, points come in.. but how will this work exactly?
- Courses will have 2 options as a payment:
-  - Mastercard or Debit Card;
-  - Points.
+### ❔ Updates and release date
+Updates and news can be found inside of our Twitter, Instagram and inside our Discord Server.
+Our current planned release date is dated to June 3rd at 12 P.M. (UTC/GMT).
 
-_*But how am I gonna buy a course with points?*_
-Buying a course with points, is gonna take a really big ammount of time, since you'll need atleast 1000 points to buy a course using points.
+## ℹ️ How will it work?
+There will be multiples ways to learn how to code inside of our website, users will be able to complete simple exercices that are organized by levels (beginner/intermidiate/expert/professional), each one will be divided by multiple sections that can contain sheets, and courses.
 
-## Currency
-Our currency, **Stormies**, will be built in C++.
-This will work as a way to improve the experience to all our users and to create a funnier way to learn code.
+### ❔ Does completing exercices and sheets give anything?
+Yes, it does.
+Completing an exercise or sheet in the shortest time will let you enjoy more well deserved points.
 
-### Why C++ though?
-C++ can help us get into the Crypto market, which we are thinking of adding an option to convert points to crypto.
+#### ❓ What are points?
+Points given to the user after sucefully completing an exercicse, or sheet will let them buy a Course using points, instead of real money.
+Obviously, you will need to complete multiple sheets in order to be able to purchase a course for free, using only points, but you will be able to enjoy a discount as well, such as 20% or 50% if you do not have enough points to buy it with a 100% discount.
 
-#### How much will 1 point be in crypto?
-Well, 1 single point will only be about 0.00001.
+## ℹ️ Other information
+### ❔ Does the team behind the project have a name?
+Yes, it does.
+The team behind the project goes by the name Zarza, but, for some, it goes by the name Symbolic Share Demons.
 
-## Who is developing the project?
-The project was initially planned on 14th April 2022, by Campi.
-After a few months, in the begin of August, a team was created to develop the project, this team includes 8 developers.
+#### ❓ Who is developing the project?
+Our team is quite big for a start-up project, we currently have 26 people actively working on the project as this is being writen.
+This team includes a few developers and many outside collaborators as well, here are a few names that are helping a lot in our project.
 
-### Details
-The team's name behind StørmAcademy is called **Zarza**.
-This team, includes the following people:
-- Campi
-  - Project Director, Development Manager, Social Media Manager, Designer and Developer
-  
-- Dudu6
-  - Project Manager, Development Manager and Social Media Manager
-  
-- Høzuni
-  - Project Manager and Domain Manager
-  
-- Venger King
-  - Developer
-  
-- Star Trek
-  - Code Editor Developer
+| Developers  | Managers    | Collaborators | Partnerships              | Upcoming Partnerships    |
+| ----------- | ----------- | -----------   | ------------------------  | ------------------------ |
+| xCampi      | xCampi      | Hozuni        | Neoteric Softwares        | Google Workspaces        |
+| Hozuni      | Duarte C.   | Kyle          | Neoteric Technologies     | Matrix Development       |    
+| Kyle        | Hozuni      | Nick2020      | FNAC PT                   | Vercel                   |                      
+| Alpacazerox | Alexandra C.| CodyDev       |  
+| Yashdani    | Leonor R.   | AlphaBlox     |
+| Alexandra C.| Mariana M.  | DobDev        
+| Miguel C.   |
+| Brian G.    |
+| Leonardo E. |
+| Miguel R.   |
+| Vector P.   |
 
-- Alpaca
-  - Design Developer
 
-- Sasuke
-  - Design Developer
-  
-- Pixelated_Lagg
-  - App Developer
 
-- Loristhegreat
-  - Design Developer
-  
-**This team is the development team, not support team. Please do not contact them if you have any questions.**
-In case you have any question, message **@xcampi**
 
----
-**Last updated on 6th January 2023, 3:52 PM (GMT)**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
