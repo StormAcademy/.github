@@ -1,8 +1,7 @@
 # StørmAcademy 
 ## ℹ️ About
 StørmAcademy is an upcoming Coding Platform which will provide multiple Courses, Exercises and fun ways to learn code.
-The idea for this project was originally thought on the 10th April, 2022 by xCampi.
-Started being worked full-time in August 2022.
+The idea for this project was originally thought on the 10th April, 2022 by xCampi and it started being worked on full-time in August 2022.
 
 ### ❔ How is StørmAcademy being made?
 We are developing the project inside of multiple Hubs, such as Vercel, Netlify, Visual Code, Epizy and GitHub Enterprise.
