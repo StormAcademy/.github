@@ -75,4 +75,4 @@ This team includes a few developers and many outside collaborators as well, here
 Please keep in mind that the project is still in development and for now, we will not provide any more information or any idea of how the project is so far.
 In case you have any questions, please contact us by one of our social media. 
 
-##### Last update: 1:53 PM (UTC/GMT), 27th February, 2023
+##### Last update: 3:36 PM (UTC/GMT), 28th February, 2023
