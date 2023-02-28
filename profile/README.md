@@ -37,7 +37,7 @@ Points given to the user after sucefully completing an exercicse, or sheet will 
 Obviously, you will need to complete multiple sheets in order to be able to purchase a course for free, using only points, but you will be able to enjoy a discount as well, such as 20% or 50% if you do not have enough points to buy it with a 100% discount.
 
 ## 📧 Support & Contact
-We are planning on creating more support communities in the future, but, for now, our support team is avaible on Twitter, Instagram and Discord.
+We are planning on creating more support communities in the future, but, for now, our support team is avaiable on Twitter, Instagram and Discord.
 
 ### Twitter
 https://twitter.com/sstormacademy
