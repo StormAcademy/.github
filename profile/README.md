@@ -61,18 +61,19 @@ This team includes a few developers and many outside collaborators as well, here
 | xCampi      | xCampi      | Hozuni        | Neoteric Softwares        | Google Workspaces               |
 | Hozuni      | Duarte C.   | Kyle          | Neoteric Technologies     | Matrix Development              |      
 | Kyle        | Hozuni      | Nick2020      | W3Schools                 | Vercel                          |                      
-| Alpacazerox | Alexandra C.| CodyDev       | Code Academy              | PaperPoint                      |  
-| Yashdani    | Leonor R.   | AlphaBlox     | Codepen                   | Fnac PT                         |
+| Alpacazerox | Alexandra C.| CodyDev       | CodeAcademy               | PaperPoint                      |  
+| Yashdani    | Leonor B.   | AlphaBlox     | Codepen                   | Fnac PT                         |
 | Alexandra C.| Mariana M.  | DobDev        | Guilded                   | Taychon Games                   |
 | Miguel C.   | Miguel P.   |               | Stackify                  | Looka                           |                       
 | Brian G.    |             |               |                           | Devicon                         |                         
 | Leonardo E. |             |               |                           | Disboard                        |                          
 | Miguel R.   |             |               |                           | Discord Developers              |
 | Vector P.   |             |               |                           |                                 |
+| Leonor B.   |             |               |                           |                                 |
 
 
 ### ⚠️Note
 Please keep in mind that the project is still in development and for now, we will not provide any more information or any idea of how the project is so far.
 In case you have any questions, please contact us by one of our social media. 
 
-##### Last update: 3:36 PM (UTC/GMT), 28th February, 2023
+##### Last update: 10:01 AM (UTC/GMT), 3rd March, 2023
